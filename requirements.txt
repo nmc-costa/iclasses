@@ -1,0 +1,13 @@
+#run pip install -r requirements.txt
+
+# Base ----------------------------------------
+matplotlib
+numpy
+scipy
+
+# Plotting ------------------------------------
+pandas
+#seaborn
+
+# IDE (editor notebook) -------------------------
+jupyterlab

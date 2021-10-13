@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+*.pyc
+*.pt
+*.pth
+*.eeg-info
+.DS_Store
+refs
