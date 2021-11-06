@@ -7,7 +7,7 @@ title iclasses
 echo Hello! This is a batch to iclasses jupyter.
 
 REM ACTIVATE ENV ********
-call conda.bat activate iclasses
+call activate iclasses
 
 REM Start jupyter lab *******
 call jupyter lab
