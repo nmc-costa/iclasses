@@ -1,7 +1,0 @@
-abrir anaconda prompt
-
-Copiar, colar:
-cd C:\Users\user\Desktop\iclasses (caminho para a pasta iclasses - alteram segundo a vossa)
-git pull
-conda activate iclasses
-jupyter lab

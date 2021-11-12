@@ -7,7 +7,7 @@ title iclasses
 echo Hello! This is a batch to iclasses jupyter.
 
 REM UPDATE ICLASSES FOLDER ******
-call git pull
+REM call git pull
 
 REM ANACONDA PATH (IF NOT in ENVIRONMENT Variables) ******
 SET PATH=C:\Tools\miniconda3;C:\Tools\miniconda3\Scripts;C:\Tools\miniconda3\Library\bin;%PATH%
