@@ -33,7 +33,8 @@ $ jupyter lab
 
 Or you can click on start_jupyterlab_iclasses.bat for faster deployment.
 
-NOTE: If file not working edit the file and change the line with your path\to\miniconda3: 
+NOTE: If file not working edit the file and change the line with your path\to\miniconda3:
+   
 SET PATH=path\to\miniconda3;path\to\miniconda3\Scripts;path\to\miniconda3\Library\bin;%PATH%
  
 
