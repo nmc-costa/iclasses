@@ -1,6 +1,8 @@
-abrir anaconda prompt
+NOTA: Se o ficheiro "start_jupyterlab_iclasses" não estiver a funcionar, fazer o seguinte:
 
-Copiar, colar:
-cd C:\Users\user\Desktop\iclasses (caminho para a pasta iclasses - alteram segundo a vossa localização)
-conda activate iclasses
-jupyter lab
+1. abrir terminal "anaconda prompt"
+
+2. Copiar e colar no terminal:
+	cd C:\Users\user\Desktop\iclasses (caminho para a pasta iclasses - alteram segundo a vossa localização)
+	conda activate iclasses
+	jupyter lab
