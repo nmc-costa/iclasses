@@ -6,6 +6,9 @@ title iclasses
 
 echo Hello! This is a batch to iclasses jupyter.
 
+REM UPDATE ICLASSES FOLDER ******
+call git pull
+
 REM ACTIVATE ENV ********
 call activate iclasses
 
