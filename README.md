@@ -14,7 +14,7 @@ Interactive programming classes
 ```bash
 $ conda create -n iclasses python=3 -y
 $ conda activate iclasses
-$ conda install numpy scipy matplotlib pandas jupyterlab -y
+$ conda install numpy scipy matplotlib pandas jupyterlab ipywidgets -y
 $ git clone https://github.com/nmc-costa/iclasses.git
 $ cd iclasses
 $ jupyter lab
