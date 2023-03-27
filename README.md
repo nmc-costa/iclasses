@@ -12,12 +12,12 @@ Interactive programming classes
 
 <!-- $ sudo apt update && apt install -y libgl1-mesa-glx libsm6 libxext6 libxrender-dev -->
 ```bash
-$ conda create -n iclasses python=3 -y
-$ conda activate iclasses
-$ conda install numpy scipy matplotlib pandas jupyterlab ipywidgets -y
-$ git clone https://github.com/nmc-costa/iclasses.git
-$ cd iclasses
-$ jupyter lab
+conda create -n iclasses python=3 -y
+conda activate iclasses
+conda install numpy scipy matplotlib pandas jupyterlab ipywidgets -y
+git clone https://github.com/nmc-costa/iclasses.git
+cd iclasses
+jupyter lab
 ```
 
 2. After installing, copy your folder to the Desktop.
@@ -26,9 +26,9 @@ $ jupyter lab
 
 <!-- $ sudo apt update && apt install -y libgl1-mesa-glx libsm6 libxext6 libxrender-dev -->
 ```bash
-$ conda activate iclasses
-$ cd path\to\Desktop\iclasses
-$ jupyter lab
+conda activate iclasses
+cd path\to\Desktop\iclasses
+jupyter lab
 ```
 
 Or you can click on start_jupyterlab_iclasses.bat for faster deployment.
